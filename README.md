@@ -5,7 +5,7 @@ This program predicts the outliers in one-dimensional data using a specific mach
 
 1) Outliers Fraction in the data (For eg. 0.05 - 5% data points are outliers) \
 2) Machine Learning Algorithm to be used for detecting outliers: - Any one of the below mentioned keywords: -
-              Keyword         Machine Learning Algorithm \
+              Keyword<\t>      Machine Learning Algorithm \
               
               hbos             Histogram-based  \       
               cblof            Clustering-based Local Outlier Factor \ 
