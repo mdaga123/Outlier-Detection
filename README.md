@@ -4,8 +4,8 @@ Detects outliers in one-dimensional data using pyod package
 This program predicts the outliers in one-dimensional data using a specific machine learning algorithm in the 'pyod' Python package. The user inputs to the program are: - \
 
 1) Outliers Fraction in the data (For eg. 0.05 - 5% data points are outliers) \
-2) Machine Learning Algorithm to be used for detecting outliers: - Any one of the below mentioned keywords: -
-              Keyword<\t>      Machine Learning Algorithm \
+2) Machine Learning Algorithm to be used for detecting outliers: - Any one of the below mentioned keywords: - \
+              Keyword          Machine Learning Algorithm \
               
               hbos             Histogram-based  \       
               cblof            Clustering-based Local Outlier Factor \ 
